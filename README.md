@@ -23,4 +23,4 @@ This project is made to predict the trend of xauusd pair forex whether the price
 
 # Dataset
 For the dataset is manually downloaded historical data of xauusd from 2014-01-01 to 2024-12-31
-[Dataset] (https://www.investing.com/currencies/xau-usd-historical-data)
+[Dataset](https://www.investing.com/currencies/xau-usd-historical-data)
