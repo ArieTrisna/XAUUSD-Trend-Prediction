@@ -1,0 +1,22 @@
+The Project Guidelines : https://www.youtube.com/watch?v=7dnBxHbVMV8 & https://www.youtube.com/watch?v=1O_BenficgE&t=371s 
+
+This project is made for Data Science Bootcamp Final Project
+The goal of this project is to understand the workflow of data science from data gathering until present the report or the outcome of the project
+
+Title: Forex Trend Prediction XAUUSD Pair (Gold)
+Dataset Source: https://www.investing.com/currencies/xau-usd-historical-data 
+
+Target:
+Identify the trend is it bullish (upward) or bearish (downward) and predict the price of the pair.
+
+Progression:
+1. Data Cleaning (Done)
+2. Feature Engineering (In-Progress)
+3. Model Training (Not Yet)
+4. Model Evaluation (Not Yet)
+5. Presentation (Not Yet)
+
+Questions: 
+1. Untuk project seperti ini dengan targetnya adalah memprediksi harga, kira-kira untuk model yang cocok apa ya? Apakah XGBoost dapat memprediksi numerical number?
+2. Data cleaning sudah dilakukan, dan saat ini sedang proses feature engineering yang dipersiapkan untuk model training menggunakan metrics-metrics financial market
+3. Apabila ingin memprediksi atau mengindentifikasi trend naik atau turun apakah itu termasuk kedalam kategorikal atau klusterisasi?
