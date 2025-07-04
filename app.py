@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 # Load the trained model
 model = joblib.load("random_forest_model.pkl")
-df = pd.read_csv('/Users/arietrisn/Documents/Career/Data Analyst:Science/Bootcamp/Forex Trend Analysis Project/xauusd.csv')
+df = pd.read_csv('./xauusd.csv')
 df = df.set_index('date')
 df = df.sort_index()
 
